@@ -71,8 +71,10 @@
 
 <!-- 技术栈 -->
 <div align="center">
-  <h2>🛠️ 技术栈</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,sass,net,nodejs,ts,python,express,git,github,docker,kubernetes,linux" />
+  <h2>🛠️ 前端技术栈</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,sass" />
+  <h2>🛠️ 后端技术栈</h2>
+  <img src="https://skillicons.dev/icons?i=net,nodejs,ts,python,express,git,github,docker,kubernetes,linux" />
 </div>
 
 <!-- GitHub统计 -->
